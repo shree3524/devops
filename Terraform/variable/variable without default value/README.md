@@ -1,1 +1,1 @@
-here is 1st image Terraform/variable/variable without default value/Screenshot (243).png
+here is 1st image https://github.com/shree3524/devops/blob/main/Terraform/variable/variable%20without%20default%20value/Screenshot%20(243).png
