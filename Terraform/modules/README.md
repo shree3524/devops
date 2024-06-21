@@ -6,6 +6,18 @@
 
 **4.In vpc folder make two file main.tf(for vpc code) , variable.tf**
 
+**5.After that run the following command on terminal**
+
+````
+terraform init
+````
+````
+terrform plan
+````
+````
+terraform apply
+````
+
 **the output**
 
 
