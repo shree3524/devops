@@ -9,4 +9,4 @@
 **the output**
 
 
-![Example Image](https://github.com/shree3524/devops/blob/main/Terraform/modules/Screenshot%20(246).png)
+![Example Image](https://github.com/shree3524/devops/blob/main/Terraform/modules/output_image.png)
