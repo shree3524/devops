@@ -1,3 +1,5 @@
+# $${\color{red} Terraform \\ modules}$$
+
 **1.Make folder called terraform in that  folder make ec2 & vpc folder** 
 
 **2.In terrafrom folder make files called provider.tf , test.tf(for module code) ,vars.tf(for all variables of ec2 and vpc) ,terraform.tfvars(for default values of variables)**
