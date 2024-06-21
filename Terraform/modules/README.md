@@ -6,7 +6,7 @@
 
 **4.In vpc folder make two file main.tf(for vpc code) , variable.tf**
 
-**5.After that run the following command on terminal**
+**5.After that run the following commands on terminal**
 
 ````
 terraform init
