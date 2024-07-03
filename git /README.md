@@ -117,3 +117,88 @@ git status
 ````
 git push origin main
 ````
+
+**return to staging to working directory**
+```
+git restore --staged <file name>
+```
+**form local to staging area after commit**
+```
+git revert <commit id>
+```
+
+**Branches:**
+
+
+
+**To show Which Branch we present**
+```
+git branch -a
+```
+```
+git branch
+```
+**Make  New Branch**
+```
+git branch <branch name - feature, test ...>
+```
+**To Change branch**
+```
+git checkout <branch name>
+```
+**Directly make branch and switch in branch newly created**
+```
+git ckeckout -b <new branch name>
+```
+**Delete Branches**
+```
+git branch -d <branch name>
+```
+```
+git branch -D <branch name >
+```
+
+**Local Repo                             |                 Remote Repo**
+
+git pull < put url copy past>                = automatically merge changes
+
+git fetch                                    = changes don't show
+
+**Remotly Add**
+```
+git remote add <b .name> url
+git remote -v
+```
+
+**To show Commit Histroy**
+```
+git rebase main
+```
+**To save Current work in a branch**
+```
+git stash
+```
+```
+git stash list
+```
+
+**To continue the stop process which has been stop in stash**
+```
+git stash apply
+```
+**For specifiyng a particuler stash**
+```
+git stash apply stash@{2}
+```
+**To pick specitc file / for test branch to main branch**
+
+process -->
+1. git log
+2. git checkout <b. name>
+```
+git cherry-pick <commit id>
+```
+**to show difference between two branches**
+```
+git diff 'main' 'test'
+```
