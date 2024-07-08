@@ -1,4 +1,5 @@
-# What is docker ?
+# ${\color{blue}What \ is \ docker ?}$
+ 
 Docker is a platform and set of tools designed to make it easier to create, deploy, and run applications using containers. Containers are lightweight, portable, and self-sufficient units that can encapsulate an application and its dependencies. Docker provides a standardized way to package, distribute, and manage these containers, making it simpler to develop, deploy, and scale applications across different environments.
 
 Key components of Docker include:
@@ -14,7 +15,8 @@ Docker Hub: A cloud-based registry service provided by Docker, where users can f
 
 Docker simplifies the deployment process by eliminating the "it works on my machine" problem, as containers ensure consistency across development, testing, and production environments. It has gained widespread popularity in the software development and IT communities due to its flexibility, efficiency, and ease of use
 
- # Why docker is used ?
+# ${\color{blue}Why \ docker \ is \ used ?}$
+
 There are several reasons why Docker has gained popularity or Why docker is used:
 
 Consistency: Docker ensures that applications run consistently across different environments, such as development, testing, and production. This eliminates the "it works on my machine" problem and makes it easier to troubleshoot and debug issues.
@@ -27,7 +29,8 @@ Efficiency: Docker containers are lightweight and share the host system's operat
 
 Isolation: Docker provides a level of isolation between containers, ensuring that applications running in different containers do not interfere with each other. This enhances security and makes it easier to manage dependencies and versioning.
 
- # How Does Docker Work?
+
+ # ${\color{blue} How \ does \ docker \ work?}$
 At the core of Docker is the Docker engine, which is responsible for building and running containers. The Docker engine uses a client-server architecture, where the Docker client communicates with the Docker daemon (server) to perform various operations.
 
 Docker images serve as the building blocks for containers. An image is a read-only template that contains the application's code, runtime environment, system tools, and libraries. Images are created from a set of instructions called Dockerfiles, which define the steps to build the image.
