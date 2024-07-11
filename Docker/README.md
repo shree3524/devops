@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/shree3524/devops/assets/117713811/9935a94c-b82c-488a-aa58-abc4e1e32e22" width="300" height="250">  
+</div>
+
 # ${\color{blue}What \ is \ docker ?}$
  
 Docker is a platform and set of tools designed to make it easier to create, deploy, and run applications using containers. Containers are lightweight, portable, and self-sufficient units that can encapsulate an application and its dependencies. Docker provides a standardized way to package, distribute, and manage these containers, making it simpler to develop, deploy, and scale applications across different environments.
