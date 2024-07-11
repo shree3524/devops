@@ -155,6 +155,9 @@ There are several reasons why Docker has gained popularity or Why docker is used
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/shree3524/devops/assets/117713811/33fdebed-0b4f-41e4-9b4b-e674daa93c59)
+<div align="center">
+
+<img src="https://github.com/shree3524/devops/assets/117713811/33fdebed-0b4f-41e4-9b4b-e674daa93c59" width="600" height="550">  
+</div>
 
 
