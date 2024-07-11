@@ -1,6 +1,7 @@
 # $${\color{blue} Kubernetes}$$   
-![image](https://github.com/shree3524/devops/assets/117713811/cf8b79b6-4b1a-428d-b0dc-1945ae728ff3)
+<img src="https://github.com/shree3524/devops/assets/117713811/cf8b79b6-4b1a-428d-b0dc-1945ae728ff3" width="300" height="250">  
 
+ 
 
 
 
