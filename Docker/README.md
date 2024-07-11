@@ -59,7 +59,7 @@ The Dockerfile uses DSL (Domain Specific Language) and contains instructions for
 It is a text document that contains necessary commands which on execution help assemble a Docker Image.
 Docker image is created using a Dockerfile.
 
-![image](https://github.com/manojv022/DevOps-Tools/assets/167419795/1b18e8a8-d286-499d-b78b-7c9473bd0cd6)
+![image](https://github.com/shree3524/devops/assets/117713811/a25ee7c8-492a-41d1-bfe7-1daa4c698144)
 
 
 
@@ -77,8 +77,8 @@ Docker container is a runtime instance of an image. Allows developers to package
 
 --> Docker Containor work in a layer system.
 
+![image](https://github.com/shree3524/devops/assets/117713811/f0827bfe-9a73-4030-956b-6bfbee0e566a)
 
-![image](https://github.com/manojv022/DevOps-Tools/assets/167419795/89570f5c-0b92-4e06-8ec1-7d7df80326bb)
 
 
 
@@ -133,10 +133,13 @@ Source: Conversation with Copilot, 3/7/2024
 **5. Docker Hub:** A cloud-based registry service provided by Docker, where users can find and share Docker images. It allows for easy distribution of pre-built images.
 
 Docker simplifies the deployment process by eliminating the "it works on my machine" problem, as containers ensure consistency across development, testing, and production environments. It has gained widespread popularity in the software development and IT communities due to its flexibility, efficiency, and ease of use
+**$${\color{blue}Docker \ Hub \ Image}$$**
+![image](https://github.com/shree3524/devops/assets/117713811/4d5e3e3b-b93d-4350-8569-accad01d62b4)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Why docker is used ?**
+
 There are several reasons why Docker has gained popularity or Why docker is used:
 
 -**1. Consistency:** Docker ensures that applications run consistently across different environments, such as development, testing, and production. This eliminates the "it works on my machine" problem and makes it easier to troubleshoot and debug issues.
@@ -152,5 +155,6 @@ There are several reasons why Docker has gained popularity or Why docker is used
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/shree3524/devops/assets/117713811/33fdebed-0b4f-41e4-9b4b-e674daa93c59)
 
 
