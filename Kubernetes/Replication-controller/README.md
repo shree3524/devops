@@ -60,3 +60,37 @@ While Replication Controllers were the original method for managing replica sets
 - **Deployment**: Provides declarative updates to applications, allowing for rolling updates, rollbacks, and more sophisticated deployment strategies.
 
 Using Deployments is generally recommended for managing your applications, as they offer a higher-level abstraction and more robust capabilities compared to Replication Controllers.
+
+### commands for RC
+**1. Applies the configuration in rc.yaml to create or update resources in the cluster.**
+````
+kubectl apply -f rc.yaml      
+````
+**2.Lists all Replication Controllers in the current namespace.**
+````
+kubectl get rc      
+````
+**3. Lists all pods in the current namespace.**
+````
+kubectl get pod    
+````
+**4. Deletes the specified pod by name.**
+````
+kubectl delete pod <pod-name>            
+````
+**5. Deletes the specified Replication Controller by name along with its managed pods.**
+````
+kubectl delete rc <rc-name>            
+````
+
+
+
+
+
+
+
+
+
+
+
+
