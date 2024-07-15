@@ -262,3 +262,10 @@ It is responsible for managing network connectivity between pods and services wi
 kube-proxy sets up network rules (e.g., iptables or IPVS rules) to distribute incoming traffic across the pods backing the service.
 
 kube-proxy plays a crucial role in managing network connectivity, load balancing, and service discovery within Kubernetes clusters
+
+
+
+![WhatsApp Image 2024-07-15 at 00 21 03_1c86dabc](https://github.com/user-attachments/assets/287fc487-ca1d-4f4b-8144-32c5ed849150)
+
+
+
