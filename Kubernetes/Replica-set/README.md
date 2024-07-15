@@ -60,3 +60,17 @@ spec:
 - **Deployments**: Deployments are a higher-level concept that manages ReplicaSets and provide declarative updates to applications. While a ReplicaSet ensures a certain number of replicas, a Deployment allows for controlled updates and rollback capabilities.
 
 In summary, ReplicaSets are fundamental for ensuring the desired number of pod replicas are running in a Kubernetes cluster, thereby providing reliability and scalability for applications.
+
+## Difference between Replica set and Replication controller 
+
+| Feature/Aspect                | ReplicaSet                                | ReplicationController                       |
+|-------------------------------|-------------------------------------------|---------------------------------------------|
+| **Selectors**                 | Supports equality-based and set-based selectors | Supports only equality-based selectors     |
+| **Usage**                     | More flexible and modern                  | Original form, now deprecated              |
+| **Integration with Deployments** | Managed by Deployments for higher-level management | Typically used directly by users           |
+| **Flexibility**               | Higher, due to support for complex selectors | Lower, due to limited selector support     |
+| **Typical Usage Scenario**    | Used indirectly through Deployments       | Used directly, less common in modern setups |
+| **Example Selector**          | `label in (value1, value2)`, `label notin (value1, value2)` | `label = value`                           |
+| **API Version**               | `apps/v1`                                 | `v1`                                        |
+| **Deprecation Status**        | Actively used and maintained              | Deprecated, not recommended for new use     |
+
