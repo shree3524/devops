@@ -1,3 +1,4 @@
+# $${\color{blue}Replica \ Set}$$
 In Kubernetes (K8s), an RS, or ReplicaSet, is a crucial component for managing the availability and scalability of applications. Here's an overview:
 
 ### What is a ReplicaSet?
