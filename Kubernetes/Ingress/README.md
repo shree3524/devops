@@ -1,5 +1,7 @@
 
 
+# $${\color{blue} Ingress}$$
+
 ![image](https://github.com/user-attachments/assets/6da07273-2a56-47b9-b553-95ab921409c6)
 
 
@@ -11,9 +13,6 @@
 
 
 
-
-
-# $${\color{blue} Ingress}$$
 
 
 In Kubernetes, **Ingress** is a powerful resource that manages external access to services within a cluster, typically HTTP and HTTPS traffic. Here's a detailed explanation of how it works and its key components:
