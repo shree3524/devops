@@ -99,3 +99,8 @@ echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]" \
 sudo apt-get update
 sudo apt-get install jenkins
 ```
+**4.To access jenkins**
+
+-put public ip of instance on browser 
+
+-ip:8080
