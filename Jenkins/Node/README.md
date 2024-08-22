@@ -16,8 +16,9 @@
     - ssh-keygen \
     - cd .ssh  \
     - copy public key \
-    - go to node instance --> cd .ssh -->paste in authorized_keys
-    - make working directory in node instance mkdir /opt/jenkins
+    - go to node instance --> cd .ssh -->paste in authorized_keys \
+    - make working directory in node instance mkdir /opt/jenkins  \
+    - give permission chmod 777 /opt/jenkins
 
 **4.sign up in jenkins**
   - go to manage jenkins
